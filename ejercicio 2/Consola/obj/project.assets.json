@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
-      "projectName": "ejercicio 1 - pseudo code",
-      "projectPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
+      "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 2\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 2\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\obj\\",
+      "outputPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 2\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucio\\AppData\\Roaming\\NuGet\\NuGet.Config",

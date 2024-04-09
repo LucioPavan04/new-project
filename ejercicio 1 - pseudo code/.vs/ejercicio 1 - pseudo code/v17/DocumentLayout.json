@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 1 - pseudo code\\",
+  "WorkspaceRootPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DC2526D-792E-439C-B019-6A1D87D1B3ED}|ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj|c:\\users\\lucio\\onedrive\\escritorio\\proyecto c#\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DC2526D-792E-439C-B019-6A1D87D1B3ED}|ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DC2526D-792E-439C-B019-6A1D87D1B3ED}|ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj|solutionrelative:ejercicio 1 - pseudo code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC2526D-792E-439C-B019-6A1D87D1B3ED}|ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DC2526D-792E-439C-B019-6A1D87D1B3ED}|ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj|solutionrelative:ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +21,27 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejercicio 1 - pseudo code",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
+              "RelativeDocumentMoniker": "ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
+              "RelativeToolTip": "ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T21:00:21.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio 1 - pseudo code\\Program.cs",
-              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\proyecto C#\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\Program.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\new-project\\ejercicio 1 - pseudo code\\ejercicio 1 - pseudo code\\Program.cs",
               "RelativeToolTip": "ejercicio 1 - pseudo code\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T23:22:02.796Z",
               "EditorCaption": ""
